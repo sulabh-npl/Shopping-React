@@ -1,0 +1,33 @@
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 150px 150px 50px;
+    padding: 20px;
+    border: 1px solid silver;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .image1 {
+    width: 450px;
+  }
+  
+  .textContainer1 {
+    text-align: left;
+    margin-left: 30px;
+    padding: 20px;
+    border: 1px solid silver;
+    border-radius: 10px;
+  }
+  
+  .textContainer h3 {
+    color: #1a73e8;
+    margin: 20px 0 30px;
+  }
+  
+  .description {
+    color: rgb(62, 62, 62);
+    margin-bottom: 30px;
+  }
+  

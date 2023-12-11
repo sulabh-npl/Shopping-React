@@ -1,0 +1,17 @@
+
+.carousel img{
+    width: 200px;
+    height: 600px;
+  }
+  .carousel div{
+    position: relative;
+  }
+  .carousel button{
+    padding: 5px;
+    margin-left: 10px;
+    background-color: aqua;
+    border-radius: 5px;
+    outline: none;
+    border: 1px navy solid;
+    text-decoration: none;
+  }

@@ -1,0 +1,8 @@
+.procucts_display{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px navy solid;
+    padding: 10px;
+    margin: 20px 0px;
+    
+}
